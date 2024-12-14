@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head»
+<title>Contact us</title>
+</head>
+<body>
+< form action="http://www.myserver.gr/comments0php">
+<fieldset>
+<legend>اتصل بنا </legend>
+<label for="name">الاسم:</label><br>
+<input type="text" placeholder"اكتب اسك ..." id="name"><br>
+<label for="Last name">اسم العائلة:</label><br>
+‹input type="text" placeholder="اكتب اسم العاللة..." id="Last name"><br>
+<label for="email">البريد الإلكتروتي:</label><br>
+‹input type="email" placeholder="اكتب عنوان بريدك الإلكتروني..." id="email"><br>
+<label for="message">الرسالة:</label><br>
+‹input type="message" placeholder="رسالتك..." id="message"></textarea><br>
+
+<input type="submit" value="ارسال">
+</fieldset>
+</form>
+</body>
+</html>
